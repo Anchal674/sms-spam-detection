@@ -1,12 +1,13 @@
 # 📩 SMS Spam Detection
 ## 📖 Project Overview
+```
 This project is a machine learning–based SMS Spam Detection System built using:
 . Python
 . Scikit-learn
 . Natural Language Processing (NLP)
 . Streamlit (for UI)
 It classifies messages as Spam or Not Spam.
-
+```
 # 📂 Project Structure
 ```
 sms-spam-detection/
@@ -60,8 +61,9 @@ streamlit run app.py
 3. NLP
 4. Streamlit
 ```
-# License
+#  📜 License
 ```
 MIT License
 ```
+
 
