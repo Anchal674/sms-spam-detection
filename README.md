@@ -9,6 +9,7 @@ This project is a machine learning–based SMS Spam Detection System built using
 It classifies messages as Spam or Not Spam.
 ```
 # 📂 Project Structure
+
 ```
 sms-spam-detection/
 │── app.py
@@ -65,5 +66,6 @@ streamlit run app.py
 ```
 MIT License
 ```
+
 
 
