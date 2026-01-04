@@ -1,4 +1,4 @@
-# 📩 SMS-Spam-Detection
+# 📩SMSCleanse-System
 ## 📖 Project Overview
 ```
 This project is a machine learning–based SMS Spam Detection System built using:
@@ -11,7 +11,7 @@ It classifies messages as Spam or Not Spam.
 # 📂 Project Structure
 
 ```
-sms-spam-detection/
+SMSCleanse/
 │── app.py
 │── model.pkl
 │── vectorizer.pkl
@@ -26,7 +26,7 @@ sms-spam-detection/
 # ⚙️ Installation
 # 1️⃣ Clone the Repository
 ```
-git clone https://github.com/yourname/sms-spam-detection.git
+git clone https://github.com/yourname/SMSCleanse-System.git
 cd sms-spam-detection
 ```
 # 2️⃣ Install Dependencies
@@ -66,6 +66,7 @@ streamlit run app.py
 ```
 MIT License
 ```
+
 
 
 
